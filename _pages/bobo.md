@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /bobo/
-title: <strong>BOBO</strong>the clown 
+title: <strong>BOBO</strong>
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
